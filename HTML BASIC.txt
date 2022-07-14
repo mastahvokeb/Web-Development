@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Status Haram </title>
+</head>
+
+<body style="background-color:powderblue;">
+<img src="https://scontent.fsub9-1.fna.fbcdn.net/v/t39.30808-6/243693386_131816992519297_6332014712649578742_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeETn5M7oWs7TbO97Q0nozy3laZQaX_bUnKVplBpf9tScrK4Aw4DGVcKzTjJ8zF2bZx5i0g8SV5mjZHNpioDris-&_nc_ohc=-aoFhkMup0gAX-bp_W1&_nc_ht=scontent.fsub9-1.fna&oh=00_AT89fZIfzOE3O4OFFg1eCZIUBodkWWQ9TmzPqD5L1tyEiw&oe=62D44C65
+" witdh="104" height="104">
+<h1 style="color:red;"> Status Haram </h1>
+<p style="font-family:arial"> Status haram </p>
+<hr>
+<h2> Status Haram 1 </h2>
+<p> Status haram 1 </p>
+<p> Status haram <br> 2 </p>
+
+<pre>
+Status Haram 4
+Status Haram 5
+Status Haram 6
+</pre>
+<a href="https://www.facebook.com/sthar.comun/"> link Status Haram </a>
+</body>
+</html>
